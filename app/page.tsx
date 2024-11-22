@@ -5,7 +5,7 @@ import React from "react";
 const Home = () => {
   return (
     <div>
-      <p>Hollo, world!</p>
+      <p>Hollo, world!!</p>
     </div>
   )
 };
